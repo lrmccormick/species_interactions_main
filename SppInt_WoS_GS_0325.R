@@ -5,9 +5,8 @@
 # Added in new data- final papers analysis included
 
 
-#setwd("C:/Users/lmccormick/OneDrive - DOI/Documents/Research/Ind Res_SppInterations/Independent Research/Analysis_Mar25")
-#setwd("/Users/LillyMcCormick/Desktop/Independent_Research/Analysis_Feb25")
 
+library("here")
 library("ggplot2")
 # require("ocedata")
 # require("oce")
@@ -42,7 +41,7 @@ library("rnaturalearthdata")
 # Example RData load
 #load("~/Documents/SIO/SeapHOx DeLUX/RedTideData/LJ_20.05.12.RData")
 
-
+#check here()
 
 #File load:
 
