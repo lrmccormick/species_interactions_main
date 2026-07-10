@@ -1,0 +1,93 @@
+Location	Status	Trophic.level	Freq
+All	Listed	Sec.consumer	5
+All	Multiple	Multiple	10
+All	Multiple	Producer	4
+All	Multiple	Sec.consumer	3
+All	Native	Apex	1
+All	Native	Prim.consumer	1
+All	Native	Producer	1
+All	Native	Sec.consumer	5
+All	Non-native	Apex	1
+All	Non-native	Prim.consumer	4
+All	Non-native	Sec.consumer	2
+All + Pacific	Native	Apex	1
+All + Pacific	Native	Sec.consumer	1
+Delta	Listed	Sec.consumer	6
+Delta	Multiple	Apex	4
+Delta	Multiple	Multiple	9
+Delta	Multiple	Producer	2
+Delta	Multiple	Sec.consumer	2
+Delta	Native	Apex	1
+Delta	Native	Sec.consumer	1
+Delta	Non-native	Apex	3
+Delta	Non-native	Multiple	1
+Delta	Non-native	Prim.consumer	1
+Delta	Non-native	Producer	3
+Delta	Non-native	Sec.consumer	6
+Delta + Rivers	Listed	Sec.consumer	2
+Delta + Rivers	Multiple	Multiple	1
+Delta + Rivers	Native	Sec.consumer	1
+Pacific + SFB	Listed	Apex	1
+Pacific + SFB	Listed	Sec.consumer	1
+Pacific + SFB	Multiple	Multiple	1
+Pacific + SFB	Multiple	Other	1
+Pacific + SFB	Multiple	Producer	2
+Pacific + SFB	Native	Apex	4
+Pacific + SFB	Native	Producer	1
+Pacific + SFB	Native	Sec.consumer	3
+Pacific + SFB	Non-native	Prim.consumer	1
+Rivers	Listed	Sec.consumer	3
+Rivers	Multiple	Apex	1
+Rivers	Multiple	Multiple	3
+Rivers	Non-native	Apex	2
+Rivers	Non-native	Sec.consumer	1
+SFB	Listed	Apex	4
+SFB	Listed	Sec.consumer	8
+SFB	Multiple	Apex	1
+SFB	Multiple	Multiple	11
+SFB	Multiple	Other	2
+SFB	Multiple	Prim.consumer	3
+SFB	Multiple	Producer	4
+SFB	Multiple	Sec.consumer	4
+SFB	Native	Apex	13
+SFB	Native	Multiple	3
+SFB	Native	Other	2
+SFB	Native	Prim.consumer	8
+SFB	Native	Producer	2
+SFB	Native	Sec.consumer	20
+SFB	Non-native	Apex	2
+SFB	Non-native	Multiple	2
+SFB	Non-native	Prim.consumer	8
+SFB	Non-native	Producer	8
+SFB	Non-native	Sec.consumer	6
+SFB + Rivers	Listed	Apex	1
+SFB + Rivers	Multiple	Sec.consumer	1
+SFB + Rivers	Native	Other	1
+SFB + Rivers	Native	Sec.consumer	1
+SFB + Rivers	Non-native	Apex	1
+SFB + Suisun	Listed	Sec.consumer	2
+SFB + Suisun	Multiple	Apex	1
+SFB + Suisun	Multiple	Multiple	2
+SFB + Suisun	Native	Apex	3
+SFB + Suisun	Native	Sec.consumer	1
+SFB + Suisun	Non-native	Multiple	1
+SFB + Suisun	Non-native	Prim.consumer	2
+Suisun	Listed	Prim.consumer	1
+Suisun	Listed	Producer	1
+Suisun	Multiple	Apex	1
+Suisun	Multiple	Multiple	3
+Suisun	Multiple	Prim.consumer	2
+Suisun	Native	Prim.consumer	3
+Suisun	Non-native	Apex	1
+Suisun	Non-native	Prim.consumer	1
+Suisun	Non-native	Sec.consumer	1
+Suisun + Delta	Listed	Sec.consumer	2
+Suisun + Delta	Multiple	Multiple	5
+Suisun + Delta	Multiple	Prim.consumer	2
+Suisun + Delta	Multiple	Producer	2
+Suisun + Delta	Multiple	Sec.consumer	2
+Suisun + Delta	Native	Producer	1
+Suisun + Delta	Native	Sec.consumer	1
+Suisun + Delta	Non-native	Prim.consumer	2
+Suisun + Delta	Non-native	Producer	1
+Suisun + Delta	Non-native	Sec.consumer	1

@@ -1,28 +1,35 @@
-# Copy of SppInt_WoS_GS_0325.R file, but edited to accommodate Google scholar search as well
-##### EXTRA CODE WAS DELETED HERE FOR SIMPLICITY. #####
+# Copy of SppInt_WoS_06.13.23_analysis.R file, but edited to accommodate Google scholar search as well
+##### EXTRA CODE WAS DELETED HERE FOR SIMPLICITY. IT CAN BE FOUND IN SppInt_WoS_GS_0824.R FILE  #####
 
-# New 1025 file started 10/03/2025
+# New 0325 file started 03/25/2025
 # Added in new data- final papers analysis included
 
 
-setwd("C:/Users/lmccormick/OneDrive - DOI/Documents/Research/R/species_interactions_main")
+#setwd("C:/Users/lmccormick/OneDrive - DOI/Documents/Research/Ind Res_SppInterations/Independent Research/Analysis_Mar25")
+#setwd("/Users/LillyMcCormick/Desktop/Independent_Research/Analysis_Feb25")
 
 library("ggplot2")
+# require("ocedata")
+# require("oce")
 library("dplyr")
 library("lubridate")
 library("grid")
 library("gridExtra")
+# library("respirometry")
 library("viridis")
 library("gtable")
 library("ggmap")
 library("maps")
 library("mapdata")
+# library("geosphere")
+# library("marmap")
 library("ggnewscale")
+# library("bibliometrix")
 library("tidyverse")
 library("ggalluvial")
 library("tidyr")
 library("stringr")
-#library("deltamapr")
+library("deltamapr")
 library("sf")
 
 # Choy fw figures:
