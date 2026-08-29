@@ -5,7 +5,6 @@
 # Added in new data- final papers analysis included
 
 
-setwd("C:/Users/lmccormick/OneDrive - DOI/Documents/Research/R/species_interactions_main")
 
 library("here")
 library("ggplot2")
